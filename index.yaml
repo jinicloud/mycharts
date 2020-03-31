@@ -3,11 +3,11 @@ entries:
   eventapp-lab18:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-03-31T16:10:30.1332844+09:00
+    created: 2020-03-31T17:46:22.2752603+09:00
     description: A Helm chart for Kubernetes
-    digest: d2c299563ff2d1fe9621fe125cc4676a1d7525ad3bfd35cd0cb202fdd03692d8
+    digest: ee69616d091faaf1ed53745a7f8a2ee3bcdf9fde71059d4f376a9e3373ca21ab
     name: eventapp-lab18
     urls:
     - https://jinicloud.github.io/mycharts/eventapp-lab18-0.1.0.tgz
     version: 0.1.0
-generated: 2020-03-31T16:10:30.1223017+09:00
+generated: 2020-03-31T17:46:22.2742677+09:00
